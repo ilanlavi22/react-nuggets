@@ -1,3 +1,3 @@
 # React Nuggets
 
-- 1.  Birthday Reminder
+1. Birthday Reminder
