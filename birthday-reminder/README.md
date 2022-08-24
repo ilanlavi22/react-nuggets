@@ -1,3 +1,3 @@
 # Birthday Reminder
 
-<img src='/screenshot.png'>
+<img src='screenshot.png'>
