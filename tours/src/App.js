@@ -65,13 +65,7 @@ function App() {
 
   return (
     <main>
-      <section>
-        <div className='title'>
-          <h2>our tours</h2>
-          <div className='underline'></div>
-        </div>
-        <Tours tours={tours} removeTour={removeTour}></Tours>
-      </section>
+      <Tours tours={tours} removeTour={removeTour}></Tours>
     </main>
   );
 }
