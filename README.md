@@ -10,3 +10,4 @@
 3. Reviews
 4. Accordion / Questions
 5. Menu / Categories
+6. Tabs
