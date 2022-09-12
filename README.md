@@ -12,3 +12,6 @@
 5. Menu / Categories
 6. Tabs
 7. Controlled input elements (multiple) / List
+8. Slider
+
+#### Forms
