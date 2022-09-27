@@ -10,6 +10,7 @@ function App() {
   //   setPeople(filterPeople);
   // };
 
+  // using previous state
   const handleRemove = (id) => {
     setPeople((prevPeople) => prevPeople.filter((people) => people.id !== id));
   };
