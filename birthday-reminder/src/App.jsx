@@ -5,9 +5,13 @@ import List from './list';
 function App() {
   const [people, setPeople] = useState(data);
 
+  // const handleRemove = (id) => {
+  //   const filterPeople = people.filter((person) => person.id !== id);
+  //   setPeople(filterPeople);
+  // };
+
   const handleRemove = (id) => {
-    const filterPeople = people.filter((person) => person.id !== id);
-    setPeople(filterPeople);
+    setPeople((prevPeople) => prevPeople.filter((people) => people.id !== id));
   };
 
   const handleClear = () => {
