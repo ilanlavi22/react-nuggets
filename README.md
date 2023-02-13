@@ -3,8 +3,7 @@
 #### useState
 
 1. Birthday Reminder
-<br /><a href="https://react-nuggets-birthday-reminder.netlify.app" target="_blank">https://react-nuggets-birthday-reminder.netlify.app</a>
-
+<br>https://react-nuggets-birthday-reminder.netlify.app
 
 
 #### useEffect and Conditional Rendering
