@@ -15,6 +15,7 @@
 <br>https://react-nuggets-reviews.netlify.app
 
 4. Accordion / Questions
+<br>https://react-nuggets-accordion.netlify.app
 
 5. Menu / Categories
 <br>https://react-nuggets-menu.netlify.app
@@ -22,11 +23,10 @@
 6. Tabs
 <br>https://react-nuggets-tabs.netlify.app
 
-8. Slider
+7. Slider
 <br>https://react-nuggets-slider.netlify.app/
 
-7. Controlled input elements (multiple) / List
 
 #### Forms
 
-9. Grocery Bud
+8. Grocery Bud
