@@ -20,7 +20,7 @@
 <br>https://react-nuggets-menu.netlify.app
 
 6. Tabs
-https://react-nuggets-tabs.netlify.app
+<br>https://react-nuggets-tabs.netlify.app
 
 8. Slider
 <br>https://react-nuggets-slider.netlify.app/
