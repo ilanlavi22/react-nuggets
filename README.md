@@ -26,9 +26,7 @@
 7. Slider
 <br>https://react-nuggets-slider.netlify.app/
 
-8. Grocery Bud
-<br>https://react-nuggets-grocery-bud.netlify.app
-
 #### Forms
 
 8. Grocery Bud
+<br>https://react-nuggets-grocery-bud.netlify.app
