@@ -13,7 +13,8 @@
 6. Tabs
 7. Controlled input elements (multiple) / List
 8. Slider
+9. Modal
 
 #### Forms
 
-9. Grocery Bud
+10. Grocery Bud
