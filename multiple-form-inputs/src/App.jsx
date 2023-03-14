@@ -4,7 +4,7 @@ function App() {
   const [user, setUser] = useState({
     name: '',
     email: '',
-    framework: '',
+    framework: 'react',
   });
   const [allUsers, setAllUsers] = useState([]);
 
@@ -17,7 +17,8 @@ function App() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (user.name || user.email || user.framework) {
+
+    if (user.name && user.email && user.framework) {
       const newUser = { ...user, id: new Date().getTime().toString() };
       setAllUsers([...allUsers, newUser]);
       setUser({ name: '', email: '', framework: '' });
@@ -100,7 +101,7 @@ function App() {
             className='bg-sky-50 rounded-sm border-[1px] border-gray-300 p-1 text-xs'
           >
             <option value='react'>React</option>
-            <option value='Angular'>Angular</option>
+            <option value='angular'>Angular</option>
           </select>
         </div>
 
@@ -111,7 +112,7 @@ function App() {
           Submit
         </button>
       </form>
-      {allUsers && (
+      {allUsers.length !== 0 && (
         <div className='flex flex-col w-[90%]'>
           <h2 className='text-base font-bold text-center pb-1 my-4'>
             Submitted Users
