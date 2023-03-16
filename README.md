@@ -1,10 +1,10 @@
 # React Nuggets
 
-#### useState
+## useState
 
 [Birthday Reminder](https://react-nuggets-birthday-reminder.netlify.app)
 
-#### useEffect and Conditional Rendering
+## useEffect and Conditional Rendering
 
 [Tours](https://react-nuggets-tours.netlify.app)
 
@@ -18,7 +18,7 @@
 
 [Slider](https://react-nuggets-slider.netlify.app)
 
-#### Forms
+## Forms
 
 [Grocery Bud](https://react-nuggets-grocery-bud.netlify.app)
 
@@ -26,10 +26,10 @@
 
 [FormData API](https://react-nuggets-form-data-api.netlify.app)
 
-#### useRef
+## useRef
 
 [NavBar / Client Rect](https://react-nuggets-navbar.netlify.app)
 
-### useContext
+## useContext
 
-[Theme Toggle / User State]()
+[Theme Toggle / User State](https://react-nuggets-theme-switch.netlify.app)
