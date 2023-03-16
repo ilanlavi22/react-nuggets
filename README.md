@@ -36,4 +36,4 @@
 
 ## Custom Hooks
 
-[useFetch / Users/User](https://react-nuggets-theme-switch.netlify.app)
+[useFetch / Users/User](https://react-nuggets-custom-hooks.netlify.app)
