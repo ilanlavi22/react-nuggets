@@ -20,6 +20,7 @@ if (process.env.NODE_ENV !== 'production') {
 app.use(
   cors({
     origin: 'https://react-nuggets-react-query-server.netlify.app',
+    credentials: true,
   })
 );
 
