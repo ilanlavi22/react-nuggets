@@ -6,7 +6,8 @@ const api = axios.create({
   baseURL: import.meta.env.VITE_APP_BASE_URL,
   headers: {
     'Content-Type': 'application/json',
-    'Access-Control-Allow-Origin': '*',
+    'Access-Control-Allow-Origin':
+      'https://react-query-server-kkv2.onrender.com',
   },
 });
 
