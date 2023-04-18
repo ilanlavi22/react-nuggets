@@ -9,7 +9,7 @@ const Items = () => {
 
   return (
     <div className='items'>
-      {data.taskList.map((item) => (
+      {data?.taskList?.map((item) => (
         <SingleItem key={item.id} item={item} />
       ))}
     </div>
