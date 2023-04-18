@@ -17,7 +17,12 @@ let taskList = [
 if (process.env.NODE_ENV !== 'production') {
   app.use(morgan('dev'));
 }
-app.use(cors());
+app.use(
+  cors({
+    origin: 'https://react-nuggets-react-query-server.netlify.app',
+  })
+);
+
 app.use(express.json());
 
 //routes
